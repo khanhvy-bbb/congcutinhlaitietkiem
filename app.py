@@ -9,7 +9,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🏦 APP TÍNH LÃI GỬI TIẾT KIỆM NGÂN HÀNG")
+st.title("🏦 CÔNG CỤ TÍNH LÃI GỬI TIẾT KIỆM NGÂN HÀNG_ĐOÀN NGUYỄN KHÁNH VY")
 st.write("Nhập thông tin khoản tiền gửi để tính tiền lãi và tổng số tiền nhận được.")
 
 st.divider()
